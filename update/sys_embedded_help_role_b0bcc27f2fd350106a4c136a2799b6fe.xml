@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">a0bcc27f2fd350106a4c136a2799b6fb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>m.kitsmiller</sys_created_by>
+        <sys_created_on>2020-09-23 22:25:36</sys_created_on>
+        <sys_id>b0bcc27f2fd350106a4c136a2799b6fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0bcc27f2fd350106a4c136a2799b6fb</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b0bcc27f2fd350106a4c136a2799b6fe</sys_update_name>
+        <sys_updated_by>m.kitsmiller</sys_updated_by>
+        <sys_updated_on>2020-09-23 22:25:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
